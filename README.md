@@ -31,6 +31,18 @@ National Library. The permanent URLs to the digital objects can be constructed b
 the barcode with `http://data.onb.ac.at/ABO/+`, e.g. for barcode `Z180627808`:
 [http://data.onb.ac.at/ABO/+Z180627808](http://data.onb.ac.at/ABO/+Z180627808).
 
+
+## Use of the Corpus for Machine Learning
+
+This corpus was used to train an automatic classifier in this publication:
+
+```
+Jan Rörden, Doris Gruber, Martin Krickl, Bernhard Haslhofer (2019) Identifying Historical Travelogues in Large Text 
+Corpora Using Machine Learning (accepted for publication), [arXiv:2001.01673](https://arxiv.org/abs/2001.01673) [cs.DL] 
+```
+
+More information and source code is available in this repository: [Travelogues/identifying-travelogues](https://github.com/Travelogues/identifying-travelogues).
+
 ## License
 
 - Text files: no copyright - non commercial use only [NoC-NC 1.0](https://rightsstatements.org/page/NoC-NC/1.0/)
