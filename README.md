@@ -3,7 +3,8 @@
 A corpus of German language travelogues from the period 1500-1876, drawn from the 
 [Austrian Books Online project](https://www.onb.ac.at/digitale-bibliothek-kataloge/austrian-books-online-abo)
 of the [Austrian National Library](https://www.onb.ac.at/). The corpus was compiled by the domain experts
-of the [Travelogues Project](https://travelogues-project.info), using the [SACHA infrastructure](http://iiif.onb.ac.at). 
+of the [Travelogues Project](https://travelogues-project.info), using the library's administration system 
+(ALMA). Full-texts and manifests with metadata were retrieved using the [SACHA infrastructure](http://iiif.onb.ac.at). 
 Texts are the result of Optical Character Recognition (OCR), and were not manually corrected. Travelogues is funded
 through grant I 3795 of the Austrian Science Fund (FWF), and grant 398697847 of the German Research Foundation
 (DFG).
